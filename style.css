@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rebeccapurple
+}
+
+.h1{
+    color: aliceblue;
+}
+.T{
+    display: flex;
+    align-items: center ;
+    color: aliceblue;
+    justify-content: center;
+}
+
+
+.B{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
